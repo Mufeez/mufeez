@@ -20,6 +20,7 @@ Solution Architect with a "Quality-First" mindset. I specialize in designing sca
 
 ### 🔗 Links
 
+- 🌐 **[Live Resume Website](https://Mufeez.github.io/resume/)**
 - 📄 **[View Full Architect Resume](https://github.com/Mufeez/resume)**
 - 📥 **[Download Resume (PDF)](https://github.com/Mufeez/resume/blob/main/Mohammad_Mufeez_Resume.pdf)**
 - 💼 **[LinkedIn Profile](https://linkedin.com/in/mufeezahmed)**
