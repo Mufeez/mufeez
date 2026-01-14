@@ -34,4 +34,4 @@ Solution Architect with a "Quality-First" mindset. I specialize in designing sca
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
-📧 **Contact:** mufeez.ahmed22@gmail.com | 📞 00918861710458
+📧 **Contact:** mufeezchitguppa@gmail.com | 📞 00918861710458
