@@ -25,17 +25,6 @@ Experienced Solution Architect specializing in scalable e-commerce platforms, en
 - 📄 [View Full Resume](https://github.com/Mufeez/resume) - Detailed professional experience and technical skills
 - 💼 [Resume Repository](https://github.com/Mufeez/resume) - Complete resume content
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Mufeez?tab=repositories">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mufeez&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Mufeez's GitHub stats" />
-  </a>
-  <a href="https://github.com/Mufeez?tab=repositories">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mufeez&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
-</div>
-
 ### 🛠️ Tech Stack
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
