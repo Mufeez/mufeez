@@ -27,12 +27,14 @@ Experienced Solution Architect specializing in scalable e-commerce platforms, en
 
 ### 📈 GitHub Stats
 
-<a href="https://github.com/Mufeez">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mufeez&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mufeez's GitHub stats" />
-</a>
-<a href="https://github.com/Mufeez">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mufeez&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</a>
+<div align="center">
+  <a href="https://github.com/Mufeez?tab=repositories">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mufeez&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Mufeez's GitHub stats" />
+  </a>
+  <a href="https://github.com/Mufeez?tab=repositories">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mufeez&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
+</div>
 
 ### 🛠️ Tech Stack
 
