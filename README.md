@@ -1,6 +1,6 @@
 # Hi, I'm Mufeez 👋
 
-## AWS Certified Solution Architect Professional | Lead SDET | Test Architect
+## AWS Certified Solution Architect Professional | Test Architect | Lead SDET 
 
 Solution Architect Professional with a "Quality-First" mindset. I specialize in designing scalable cloud architectures, multi-tenant systems, automation frameworks , performance testing tools and zero-downtime deployment strategies, backed by a deep background in Quality Engineering leadership.
 
